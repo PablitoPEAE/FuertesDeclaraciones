@@ -5,7 +5,9 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #ffffff;
+    overflow: hidden; /* Bloquea la barra de desplazamiento */
 }
+
 
 .container {
     text-align: center;
